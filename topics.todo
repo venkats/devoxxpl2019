@@ -7,35 +7,35 @@ Access:
 URL: https://github.com/venkats/devoxxpl2019
 
 Part 0: What's Kotlin?:
--Styles of programming
--Running as a script
--Compiling
--lab
+✓Styles of programming
+✓Running as a script
+✓Compiling
+✓lab
 
 Part 1: Writing Functions:
--Defining variables
--Prefer val or var
--Writing functions
--Single Expression Functions
--Multiline functions
--passing parameters
--nullable types
--safe navigation and Elvis operator
--when expression and statement
--lab
+✓Defining variables
+✓Prefer val or var
+✓Writing functions
+✓Single Expression Functions
+✓Multiline functions
+✓passing parameters
+✓nullable types
+✓safe navigation and Elvis operator
+✓when expression and statement
+✓lab
 
 Part 2: OO Programming:
--Creating a class
--Defining a constructor
- -val, var, vs. private field
--Creating a method
--Defining properties
--getters
--setters
--private setters
--Companion objects
--"static" methods
--operator
+✓Creating a class
+✓Defining a constructor
+ ✓val, var, vs. private field
+✓Creating a method
+✓Defining properties
+✓getters
+✓setters
+✓private setters
+✓Companion objects
+✓"static" methods
+✓operator overloading
 -inheritance
 -delegation
 -lab
