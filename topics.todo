@@ -36,14 +36,14 @@ Part 2: OO Programming:
 ✓Companion objects
 ✓"static" methods
 ✓operator overloading
--inheritance
--delegation
--lab
+✓inheritance
+✓delegation
+✓lab
 
 Part 3: Functional Programming:
--higher order functions
--lambda expressions
--structure of a lambda
+✓higher order functions
+✓lambda expressions
+✓structure of a lambda
 -filter, map, reduce
 -eager vs. lazy evaluation
 -sequences
